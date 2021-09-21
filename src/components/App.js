@@ -22,8 +22,7 @@ export function App(){
       <Header/>
         <Switch>
             <Route path = "/albums" component={Albums}/>
-            <Route path = "/posts" render={()=>{return <Posts posts={posts}/>}
-          }/>
+            <Route path = "/posts" render={()=>{return <Posts posts={posts}/>}}/>
         </Switch>
         <h3 style={{textAlign:'center',fontFamily:"Roboto", padding:"1rem 0rem"}}>Homework 5</h3>
     </div>
