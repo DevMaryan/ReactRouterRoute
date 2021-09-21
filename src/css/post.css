@@ -1,0 +1,26 @@
+#posts{
+    margin: 0 auto;
+    width:600px;
+    font-family: Roboto;
+    margin-top:20px;
+}
+.post-title{
+    background-color:#55608F;
+    color:#fff;
+    border-radius:16px 3px 3px 16px;
+    padding:0.5rem 0rem;
+}
+.postid{
+    padding:3px 7px;
+    border-radius:50%;
+    background-color:#FFF;
+    color:#55608F;
+}
+.postbox{
+    margin:1rem;
+}
+.post-body{
+    background-color:#FAFAFA;
+    color:#666;
+    padding:0.5rem 1rem;
+}

@@ -1,0 +1,26 @@
+.header{
+    background:#339CFF;
+    color:#FFF;
+    font-family: Roboto;
+    height:40px;
+}
+.header a{
+    padding:0.7rem 3rem;
+    color:#FFF;
+    text-decoration: none;
+    cursor:pointer;
+}
+.header a:hover{
+    color:#339CFF;
+    background-color:#FFF;
+}
+.header ul{
+    text-align: center;
+}
+.header ul li{
+    list-style-type:none;
+    display:inline-block;
+    color:#FFF;
+    padding:0.7rem 0.1rem;
+    transition:0.3s;
+}
